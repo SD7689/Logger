@@ -1,0 +1,4 @@
+10:08:44,615 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Program.cs] ERROR - This is my Error message
+11:18:56,774 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Program.cs] ERROR - This is my Error message
+14:58:03,841 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Anagram.cs] ERROR - Two strings are not Same or Equal 
+14:58:03,895 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Program.cs] ERROR - This is my Error message
