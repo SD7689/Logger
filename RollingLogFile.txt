@@ -2,3 +2,11 @@
 11:18:56,774 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Program.cs] ERROR - This is my Error message
 14:58:03,841 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Anagram.cs] ERROR - Two strings are not Same or Equal 
 14:58:03,895 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Program.cs] ERROR - This is my Error message
+19:06:12,074 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Anagram.cs] ERROR - Two strings are not Same or Equal 
+19:06:12,122 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Program.cs] ERROR - This is my Error message
+19:22:23,031 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Anagram.cs] ERROR - Two strings are not Same or Equal 
+09:43:28,883 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Anagram.cs] ERROR - Strings are not of equal Length.
+10:44:52,229 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\BubbleSort.cs] ERROR - Invalid Format Exception, Array should be of Integer type.
+10:48:20,840 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\BubbleSort.cs] ERROR - 
+ OverFlowException,Enter length of Array in Postive Value.
+10:52:18,282 [C:\Users\Bridgelabz\source\repos\ConsoleApp1\ConsoleApp1\Anagram.cs] ERROR - Strings are not of equal Length.
